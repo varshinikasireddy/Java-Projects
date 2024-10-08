@@ -1,6 +1,6 @@
 # Java-Projects
 
-Project-01: 🔐Random Password Generator
+ ## **Project-01: 🔐Random Password Generator**
 
 📄Description:
   This project allows users to generate a random password of a specified length using uppercase letters, lowercase letters, digits, and special characters.
