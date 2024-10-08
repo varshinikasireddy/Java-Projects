@@ -20,4 +20,5 @@ Project-01: 🔐Random Password Generator
   step4: Print the Password.
   
 🔍 See It in Action:
+
 <img width="693" alt="PasswordGenerator" src="https://github.com/user-attachments/assets/7ea3be82-e3ae-4503-bed1-d17bd3517f71">
