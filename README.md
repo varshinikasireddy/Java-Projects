@@ -1,11 +1,11 @@
 # Java-Projects
 
- ## **Project-01: 🔐Random Password Generator**
+ ## **Project-01: Random Password Generator**
 
-📄Description:
+Description:
   This project allows users to generate a random password of a specified length using uppercase letters, lowercase letters, digits, and special characters.
   
-💡Approach:
+Approach:
 
   step1: Create a String containing all the possible characters( such as uppercase letters, lowercase letters, numbers, 
   and 
@@ -19,6 +19,6 @@
     
   step4: Print the Password.
   
-🔍 See It in Action:
+See It in Action:
 
 <img width="693" alt="PasswordGenerator" src="https://github.com/user-attachments/assets/7ea3be82-e3ae-4503-bed1-d17bd3517f71">
