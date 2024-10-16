@@ -1,4 +1,4 @@
-# Java-Projects
+# Java-Projects (Total-03)
 
  ## **Project-01: Random Password Generator**
 
@@ -52,6 +52,45 @@
    **See it in action:**
 
    <img width="606" alt="Project-2" src="https://github.com/user-attachments/assets/16105955-f993-459a-9bc1-8c442946e42b">
+
+
+   ## **Project-03: Dobble Game**
+
+   **Description:**
+
+   The Dobble game consists of a set of cards, each containing symbols. The unique feature of the game is that any two cards share exactly one symbol in common. This project implements a simplified version of the Dobble game using Java, 
+   implements the generation of cards and checking for the common symbol.
+
+   **Game Rules**
+   
+   **1** Each card has a defined number of symbols (in this case, 5).
+   
+   **2** Any two selected cards will have exactly one symbol in common.
+   
+   **3** Players need to identify the common symbol between two flashed cards.
+
+   **How It Works**
+
+   **i.Symbols Representation:** Symbols are represented using uppercase and lowercase letters from the English alphabet.
+   
+   **ii.Card Generation:**
+   
+   **->** Two cards are created, each containing a fixed number of symbols (5 in this implementation).
+      
+   **->** A random common symbol is chosen, and its position is set on both cards.
+      
+   **->** The remaining positions on the cards are filled with random symbols that are unique to each card, ensuring no repetitions occur within a card or between the two cards.
+   
+   **iii. User Interaction:**
+   
+   **->** The user is prompted to identify the common symbol.
+    
+   **->** The program checks the user’s input against the actual common symbol and provides feedback.
+
+   **Output:**
+
+   <img width="342" alt="dobbleGame" src="https://github.com/user-attachments/assets/5fb437fd-4b62-4f4b-802d-d7d757378d36">
+
 
 
    
